@@ -1,0 +1,1 @@
+(()=>{var __webpack_modules__={"./src/client/client.ts":()=>{eval("class Client {\r\n}\r\nnew Client();\r\n\n\n//# sourceURL=webpack://@reddev-fivem/websocket/./src/client/client.ts?")}},__webpack_exports__={};__webpack_modules__["./src/client/client.ts"]()})();

@@ -1,0 +1,4 @@
+class Client {
+}
+
+new Client();
